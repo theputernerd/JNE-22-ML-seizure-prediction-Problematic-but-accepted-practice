@@ -1,0 +1,7 @@
+matplotlib==3.2.1
+mne==0.21.0
+numpy==1.19.5
+scikit_learn==1.2.0
+scipy==1.4.1
+tensorflow==2.11.0
+tf_nightly==2.5.0.dev20210322
